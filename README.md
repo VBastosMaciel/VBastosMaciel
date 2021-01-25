@@ -1,5 +1,5 @@
 <h3>Opa, meu nome é Victor :v:</h3>
-<img align="right" width="500" src="https://user-images.githubusercontent.com/66436169/105659521-ad00eb00-5ea7-11eb-932a-0f34313e2623.png">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/66436169/105659521-ad00eb00-5ea7-11eb-932a-0f34313e2623.png">
 <p align="justify">
   Sou um <strong>Desenvolvedor Back e Android</strong> :smile:.<br>
   Opa, estou estudando <strong>Java</strong> e <strong>C#</strong> para me tornar um desenvolvedor Back-End e Mobile.<br>
