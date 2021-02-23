@@ -1,5 +1,5 @@
 <h3>Opa, meu nome é Victor :v:</h3>
-<img align="right" width="500" src="https://user-images.githubusercontent.com/66436169/108850000-968ea200-75c1-11eb-9928-bf70f57eb462.png">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/66436169/108850000-968ea200-75c1-11eb-9928-bf70f57eb462.png">
 <p align="justify">
   Sou um <strong>Desenvolvedor Mobile</strong> :smile:.<br>
   Opa, tudo bom? Estou estudando para me tornar um desenvolvedor mobile iniciando com <strong>React Native</strong> e <strong>Android Nativo</strong> usando Java. Pretendo no futuro aprender Kotlin e se possível Swift para desenvolver nativamente para IOS também :+1:.
