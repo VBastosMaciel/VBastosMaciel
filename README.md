@@ -2,7 +2,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/66436169/108850732-71e6fa00-75c2-11eb-94cb-343f468507b2.png">
 <p align="justify">
   Sou um <strong>Desenvolvedor Mobile</strong> :smile:.<br>
-  Opa, tudo bom? Estou estudando para me tornar um desenvolvedor mobile focado em <strong>Android Nativo</strong> usando Java e Kotlin de inicio. Pretendo no futuro aprender <strong>Flutter</strong> para desenvolver de forma híbrida :+1:.
+  Opa, tudo bom? Estou estudando para me tornar um desenvolvedor mobile focado em <strong>Android Nativo</strong> usando Kotlin de inicio. Pretendo no futuro aprender <strong>Flutter</strong> para desenvolver de forma híbrida :+1:.
 </p>
  <h3 align="left">:computer: Estou estudando:</h3>
 <p align="left">
