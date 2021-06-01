@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66436169/120326662-583f0800-c2bf-11eb-8312-2756f386205c.gif">
+  <img width="450" src="https://user-images.githubusercontent.com/66436169/120326662-583f0800-c2bf-11eb-8312-2756f386205c.gif">
 </p>
 <h2>Opa, tudo bom? Como vai a vida?</h2>
 <p align="justify">
