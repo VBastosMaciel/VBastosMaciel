@@ -4,8 +4,8 @@
 </p>
 <p align="justify">
   Me chamo Victor e eu sou um <strong>Desenvolvedor Android</strong> 😄. Tenho familiaridade com a programação desde os 15 anos mas resolvi me aprimorar mesmo durante a pandemia, em que aprendi logica de programação e deste então, estou me aprofundando em desenvolvimento de aplicativos 📱.<br>
-  Tenho uma maior familiaridade com Kotlin, porém estou estudando Java para poder conseguir desenvolver com as duas tecnologias. Pretendo aprender UI/UX para melhorar a aparencia dos meus apps e aprender alguma tecnologia para desenvolvimento híbrido como Flutter ou React Native.
-  Durante o tempo livre gosto muito de jogar (inclusive, o gif acima é do Dark Souls que é meu jogo favorito), escutar música e, apesar de está meio parado, gosto muito de fazer pixelarts 😉.
+  Tenho uma maior familiaridade com Kotlin, porém estou estudando Java para poder conseguir desenvolver com as duas tecnologias. Pretendo aprender UI/UX para melhorar a aparencia dos meus apps e aprender alguma tecnologia para desenvolvimento híbrido como Flutter ou React Native.<br>
+  Durante o tempo livre gosto muito de jogar (inclusive, o gif acima é de Dark Souls que é meu jogo favorito), escutar música e, apesar de está meio parado, gosto muito de fazer pixelarts 😉.
 </p>
  <h3 align="left">:computer: Estou estudando:</h3>
 <p align="left">
