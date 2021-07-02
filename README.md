@@ -3,8 +3,8 @@
   <img width="450" src="https://user-images.githubusercontent.com/66436169/120326662-583f0800-c2bf-11eb-8312-2756f386205c.gif">
 </p>
 <p align="justify">
-  Opa, me chamo Victor 😄. Tenho familiaridade com a programação desde os 15 anos mas resolvi me aprimorar mesmo durante a pandemia, em que aprendi logica de programação e deste então, estou me aprofundando em desenvolvimento de aplicativos 📱.<br>
-  Tenho uma maior familiaridade com Kotlin, porém estou estudando Java para poder conseguir desenvolver para <strong>android</strong>, ja para <strong>front end</strong> tenho conhecimento em HTML, CSS e Javascript. Pretendo aprender UI/UX, React e React Native.<br>
+  Opa, me chamo Victor 😄 e estou estudando para me tornar um desenvolvedor de aplicativos. Tenho familiaridade com a programação desde os 15 anos mas resolvi me aprimorar mesmo durante a pandemia, em que aprendi logica de programação e deste então, estou me aprofundando em desenvolvimento de aplicativos 📱.<br>
+  Tenho uma maior facilidade em desenvolver para <strong>Android Nativo</strong> com Kotlin e Java, porém estou estudando Javascript para conseguir desenvolver de forma <strong>Híbrida</strong> usando React Native. Também pretendo aprender UI/UX e Spring para BackEnd.<br>
   Durante o tempo livre gosto muito de jogar (inclusive, o gif acima é de Dark Souls que é meu jogo favorito), escutar música e, apesar de está meio parado, gosto muito de fazer pixelarts 😉.
 </p>
  <h3 align="left">:computer: Tecnologias que domino:</h3>
