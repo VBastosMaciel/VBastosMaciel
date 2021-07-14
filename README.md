@@ -3,20 +3,19 @@
   <img width="450" src="https://user-images.githubusercontent.com/66436169/120326662-583f0800-c2bf-11eb-8312-2756f386205c.gif">
 </p>
 <p align="justify">
-  Opa, me chamo Victor 😄 e estou estudando para me tornar um desenvolvedor de aplicativos. Tenho familiaridade com a programação desde os 15 anos mas resolvi me aprimorar mesmo durante a pandemia, em que aprendi logica de programação e deste então, estou me aprofundando em desenvolvimento de aplicativos 📱.<br>
-  Tenho uma maior facilidade em desenvolver para <strong>Android Nativo</strong> com Kotlin e Java, porém estou estudando Javascript para conseguir desenvolver de forma <strong>Híbrida</strong> usando React Native. Também pretendo aprender UI/UX e Spring para BackEnd.<br>
-  Durante o tempo livre gosto muito de jogar (inclusive, o gif acima é de Dark Souls que é meu jogo favorito), escutar música e, apesar de está meio parado, gosto muito de fazer pixelarts 😉.
+  Meu nome é Victor 😄 e estou estudando para me tornar um desenvolvedor de sucesso. Adquiri gosto pela programação durante a pandemia, em que realmente comecei a estudar bastante e dar o meu máximo para aprender.<br>
+  Tenho como foco me aprimorar em Java e Kotlin principalmente, linguagens que conheci por meio de cursos de bootcamps. Tenho um bom conhecimento em desenvolvimento para android usando Kotlin e pretendo estudar para conseguir desenvolver usando Java também. Aproveitando as linguagens, pretendo aprender a desenvolver usando Spring também.<br>
+  Durante o tempo livre gosto muito de jogar (inclusive, o gif acima é de Dark Souls que é meu jogo favorito), escutar música e, apesar de está meio parado, gosto também de fazer pixelarts 😉.
 </p>
- <h3 align="left">:computer: Tecnologias que domino:</h3>
+ <h3 align="left">:computer: Linguagens que estou estudando:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
-<h3 align="left">:computer: Estou estudando:</h3>
+<h3 align="left">:computer: Plataformas que quero desenvolver:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
   <h3 align="left">:mailbox_with_mail: Redes sociais:</h3>  
 <p align="left">
