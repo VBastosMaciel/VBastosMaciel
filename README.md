@@ -4,7 +4,7 @@
 </p>
 <p align="justify">
   Meu nome é Victor 😄 e estou estudando para me tornar um desenvolvedor de sucesso. Adquiri gosto pela programação durante a pandemia, em que realmente comecei a estudar bastante e dar o meu máximo para aprender.<br>
-  Tenho como foco me aprimorar em Java e Javascript principalmente e no futuro aprender mais sobre Kotlin, linguagens que conheci por meio de cursos de bootcamps. Pretendo me aprofundar em Java e Javascript para construir aplicações completas e no futuro Kotlin para desenvolver para Android.<br>
+  Tenho como foco me aprimorar em Java e Kotlin principalmente, linguagens que conheci por meio de cursos de bootcamps e continuo estudando de forma autonoma. Pretendo me aprofundar nas duas tecnologias e desenvolver tanto para Back End e Android.<br>
   Durante o tempo livre gosto muito de jogar (inclusive, o gif acima é de Dark Souls que é meu jogo favorito), escutar música e, apesar de está meio parado, gosto também de fazer pixelarts 😉.
 </p>
  <h3 align="left">:computer: Tecnologias:</h3>
